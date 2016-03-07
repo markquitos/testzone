@@ -12,6 +12,7 @@ class Welcome extends MX_Controller {
 	}
 
 
+
 	public function index(){
 		echo 'test page success';
 		//$this->load->view('welcome_message');
